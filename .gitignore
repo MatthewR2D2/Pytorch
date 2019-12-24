@@ -1,0 +1,8 @@
+
+Preceptron/data/MNIST/raw/t10k-labels-idx1-ubyte
+*.pt
+Preceptron/data/MNIST/raw/t10k-images-idx3-ubyte
+*.gz
+Preceptron/data/MNIST/raw/train-images-idx3-ubyte
+Preceptron/data/MNIST/raw/train-labels-idx1-ubyte
+Preceptron/.ipynb_checkpoints/MultiLayerPreceptron-checkpoint.ipynb
