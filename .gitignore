@@ -6,3 +6,14 @@ Preceptron/data/MNIST/raw/t10k-images-idx3-ubyte
 Preceptron/data/MNIST/raw/train-images-idx3-ubyte
 Preceptron/data/MNIST/raw/train-labels-idx1-ubyte
 Preceptron/.ipynb_checkpoints/MultiLayerPreceptron-checkpoint.ipynb
+DogCatClassifier/Data/dogs-vs-cats.zip
+DogCatClassifier/Data/dogs-vs-cats/sampleSubmission.csv
+DogCatClassifier/.ipynb_checkpoints/DogvsCat-checkpoint.ipynb
+DogCatClassifier/Data/dogs-vs-cats/test1.zip
+MultipleOptimizer/MNIST/raw/train-labels-idx1-ubyte
+MultipleOptimizer/MNIST/raw/train-images-idx3-ubyte
+MultipleOptimizer/MNIST/raw/t10k-labels-idx1-ubyte
+MultipleOptimizer/MNIST/raw/t10k-images-idx3-ubyte
+MultipleOptimizer/.ipynb_checkpoints/AdamToSGD-checkpoint.ipynb
+*.jpg
+DogCatClassifier/Data/dogs-vs-cats/train.zip
