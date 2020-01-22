@@ -18,3 +18,4 @@ MultipleOptimizer/.ipynb_checkpoints/AdamToSGD-checkpoint.ipynb
 *.jpg
 DogCatClassifier/Data/dogs-vs-cats/train.zip
 BasicOpperations/.ipynb_checkpoints/IntroToPytorch-checkpoint.ipynb
+FashionNN/.ipynb_checkpoints/MNIST-checkpoint.ipynb
