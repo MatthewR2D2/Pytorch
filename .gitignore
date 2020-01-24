@@ -21,3 +21,13 @@ BasicOpperations/.ipynb_checkpoints/IntroToPytorch-checkpoint.ipynb
 FashionNN/.ipynb_checkpoints/MNIST-checkpoint.ipynb
 FashionNN/fashionmnist/fashion-mnist_test.csv
 FashionNN/fashionmnist/fashion-mnist_train.csv
+Autoencoders/.ipynb_checkpoints/Conv_Autoencoder-checkpoint.ipynb
+Autoencoders/.ipynb_checkpoints/UpsamplingAutoencoder-checkpoint.ipynb
+Autoencoders/data/FashionMNIST/raw/t10k-images-idx3-ubyte
+Autoencoders/data/FashionMNIST/raw/t10k-labels-idx1-ubyte
+Autoencoders/data/FashionMNIST/raw/train-images-idx3-ubyte
+Autoencoders/data/FashionMNIST/raw/train-labels-idx1-ubyte
+Autoencoders/data/MNIST/raw/t10k-images-idx3-ubyte
+Autoencoders/data/MNIST/raw/t10k-labels-idx1-ubyte
+Autoencoders/data/MNIST/raw/train-images-idx3-ubyte
+Autoencoders/data/MNIST/raw/train-labels-idx1-ubyte
