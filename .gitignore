@@ -31,3 +31,4 @@ Autoencoders/data/MNIST/raw/t10k-images-idx3-ubyte
 Autoencoders/data/MNIST/raw/t10k-labels-idx1-ubyte
 Autoencoders/data/MNIST/raw/train-images-idx3-ubyte
 Autoencoders/data/MNIST/raw/train-labels-idx1-ubyte
+Autoencoders/.ipynb_checkpoints/DenoisingAutoencoder-checkpoint.ipynb
