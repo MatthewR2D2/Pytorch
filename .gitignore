@@ -33,3 +33,12 @@ Autoencoders/data/MNIST/raw/train-images-idx3-ubyte
 Autoencoders/data/MNIST/raw/train-labels-idx1-ubyte
 Autoencoders/.ipynb_checkpoints/DenoisingAutoencoder-checkpoint.ipynb
 Autoencoders/.ipynb_checkpoints/LinearAutoencoder-checkpoint.ipynb
+SimpleCNN/.ipynb_checkpoints/CNN-checkpoint.ipynb
+SimpleCNN/data/cifar-10-batches-py/batches.meta
+SimpleCNN/data/cifar-10-batches-py/data_batch_1
+SimpleCNN/data/cifar-10-batches-py/data_batch_2
+SimpleCNN/data/cifar-10-batches-py/data_batch_3
+SimpleCNN/data/cifar-10-batches-py/data_batch_4
+SimpleCNN/data/cifar-10-batches-py/data_batch_5
+SimpleCNN/data/cifar-10-batches-py/readme.html
+SimpleCNN/data/cifar-10-batches-py/test_batch
