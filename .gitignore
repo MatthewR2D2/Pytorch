@@ -44,3 +44,11 @@ SimpleCNN/data/cifar-10-batches-py/readme.html
 SimpleCNN/data/cifar-10-batches-py/test_batch
 SimpleCNN/.ipynb_checkpoints/CNN_Augmentation-checkpoint.ipynb
 SimpleCNN/.ipynb_checkpoints/Conv_Visualization_EdgeDetection-checkpoint.ipynb
+GANS/.ipynb_checkpoints/DeepConvGAN-checkpoint.ipynb
+GANS/.ipynb_checkpoints/SimpleGAN-checkpoint.ipynb
+GANS/data/MNIST/raw/t10k-images-idx3-ubyte
+GANS/data/MNIST/raw/t10k-labels-idx1-ubyte
+GANS/data/MNIST/raw/train-images-idx3-ubyte
+GANS/data/MNIST/raw/train-labels-idx1-ubyte
+GANS/data/train_32x32.mat
+SimpleCNN/.ipynb_checkpoints/VizualizeMaxPooling-checkpoint.ipynb
