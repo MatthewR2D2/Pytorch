@@ -53,3 +53,7 @@ GANS/data/MNIST/raw/train-labels-idx1-ubyte
 GANS/data/train_32x32.mat
 SimpleCNN/.ipynb_checkpoints/VizualizeMaxPooling-checkpoint.ipynb
 GANS/train_samples.pkl
+AIFundamentals/.ipynb_checkpoints/GradientDescent-checkpoint.ipynb
+AIFundamentals/.ipynb_checkpoints/YesNoPython-checkpoint.ipynb
+RNN/.ipynb_checkpoints/CharacterLevelLSTM-checkpoint.ipynb
+RNN/rnn_20_epoch.net
