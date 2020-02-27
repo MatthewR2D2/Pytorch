@@ -57,3 +57,6 @@ AIFundamentals/.ipynb_checkpoints/GradientDescent-checkpoint.ipynb
 AIFundamentals/.ipynb_checkpoints/YesNoPython-checkpoint.ipynb
 RNN/.ipynb_checkpoints/CharacterLevelLSTM-checkpoint.ipynb
 RNN/rnn_20_epoch.net
+RNN/.ipynb_checkpoints/SequenceRNN-checkpoint.ipynb
+SimpleCNN/.ipynb_checkpoints/VGGTransferlearning-checkpoint.ipynb
+SimpleCNN/data/flower-photos.zip
