@@ -60,3 +60,5 @@ RNN/rnn_20_epoch.net
 RNN/.ipynb_checkpoints/SequenceRNN-checkpoint.ipynb
 SimpleCNN/.ipynb_checkpoints/VGGTransferlearning-checkpoint.ipynb
 SimpleCNN/data/flower-photos.zip
+NLP/.ipynb_checkpoints/NegativeSampling-checkpoint.ipynb
+Pytorch_SVM/.ipynb_checkpoints/SVM_Pytorch-checkpoint.ipynb
